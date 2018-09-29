@@ -5,3 +5,4 @@ def line(number_in_line)
 end
 
 def take_a_number(people, name_of_last)
+  
