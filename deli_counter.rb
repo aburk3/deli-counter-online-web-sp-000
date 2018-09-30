@@ -6,7 +6,6 @@ def line(number_in_line)
       place_in_line = index + 1 
       statement = "The line is currently: "
       statement << "#{place_in_line}. #{value}."
-    end
   end
 end
 
