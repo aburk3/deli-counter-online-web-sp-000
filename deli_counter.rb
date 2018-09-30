@@ -1,5 +1,5 @@
 def line(number_in_line)
-  if number_in_line.size === 0 
+  if number_in_line.length === 0 
     "The line is currently empty."
   else
     number_in_line.each_with_index do |value, index|
