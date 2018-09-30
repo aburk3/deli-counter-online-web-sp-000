@@ -12,5 +12,7 @@ def line(number_in_line)
   end
 end
 
+def take_a_number
+  
 
   
