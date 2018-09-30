@@ -12,7 +12,9 @@ def line(number_in_line)
   end
 end
 
-def take_a_number
+def take_a_number(current_line, name_of_end)
+  
+end
   
 
   
